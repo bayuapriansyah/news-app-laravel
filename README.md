@@ -2,7 +2,7 @@
 
 **Aplikasi berita dengan laravel 12**. Proyek ini merupakan aplikasi berbasis web yang dirancang untuk pengelolaan dan penyajian berita secara efisien menggunakan fitur-fitur terbaru dari framework Laravel.
 
-## 🚀 Fitur Utama
+## Fitur Utama
 
 Berdasarkan kapabilitas framework yang digunakan, aplikasi ini mendukung:
 - **Sistem Routing yang Cepat:** Menggunakan engine routing Laravel untuk navigasi yang lancar.
@@ -11,7 +11,7 @@ Berdasarkan kapabilitas framework yang digunakan, aplikasi ini mendukung:
 - **Blade Templating:** Antarmuka pengguna yang dinamis menggunakan engine templating Blade.
 - **Pemrosesan Job Latar Belakang:** Untuk menangani tugas-tugas berat secara efisien.
 
-## 🛠️ Teknologi yang Digunakan
+## Teknologi yang Digunakan
 
 Proyek ini dibangun dengan teknologi modern berikut:
 - **Framework Utama:** [Laravel 12](https://laravel.com).
@@ -22,7 +22,7 @@ Proyek ini dibangun dengan teknologi modern berikut:
   - **PostCSS:** Digunakan dalam alur kerja pemrosesan CSS.
 - **Dependency Management:** Composer (PHP) dan NPM/Package Lock (JavaScript).
 
-## 📋 Prasyarat Instalasi
+## Prasyarat Instalasi
 
 Sebelum menjalankan proyek ini, pastikan perangkat Anda telah terpasang:
 1. **PHP >= 8.x** (Sesuai kebutuhan Laravel 12).
@@ -37,7 +37,7 @@ Sebelum menjalankan proyek ini, pastikan perangkat Anda telah terpasang:
 4. Salin `.env.example` menjadi `.env` dan sesuaikan konfigurasi database.
 5. Jalankan `php artisan key:generate` dan `php artisan migrate`.
 
-## 📂 Struktur Proyek
+## Struktur Proyek
 
 Susunan folder dalam proyek ini mengikuti standar Laravel:
 - `app/`: Berisi logika inti aplikasi.
@@ -47,15 +47,15 @@ Susunan folder dalam proyek ini mengikuti standar Laravel:
 - `routes/`: Definisi rute aplikasi.
 - `tests/`: File untuk pengujian otomatis (PHPUnit).
 
-## 💡 Kegunaan
+## Kegunaan
 Aplikasi ini dapat digunakan sebagai platform dasar untuk membangun portal berita, blog pribadi, atau sistem manajemen konten (CMS) yang memerlukan performa tinggi dan keamanan yang baik.
 
-## 🤝 Kontribusi
+## Kontribusi
 Kami menerima kontribusi dengan senang hati! Jika Anda ingin berkontribusi:
 1. Fork repositori ini.
 2. Buat branch fitur baru.
 3. Lakukan commit perubahan Anda.
 4. Kirimkan Pull Request untuk ditinjau.
 
-## 📄 Lisensi
+## Lisensi
 Proyek ini bersifat open-source dan dilisensikan di bawah **[MIT license](https://opensource.org/licenses/MIT)**.
